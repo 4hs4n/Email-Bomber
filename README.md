@@ -15,15 +15,15 @@ Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/8
 EmBomber should work on all Linux distros running Python 2.7
 First, clone it by entering the following command in the terminal
 ``` bash
-git clone https://github.com/MazenElzanaty/EmBomber.git
+https://github.com/4hs4n/Email-Bomber-.git
 ```
 Now navigate to EmBomber directory
 ``` bash
-cd EmBomber
+cd E-bomber
 ```
 Now you can run EmBomber
 ``` bash
-python EmBomber.py
+python  E-bomb.py
 ```
 ## Note
 You need to enable less secure apps on Gmail and Yahoo
