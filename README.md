@@ -29,4 +29,4 @@ python  E-bomb.py
 You need to enable less secure apps on Gmail and Yahoo
 
 ## Video
-[![Thumbnail](http://i3.ytimg.com/vi/qAnRmA0zWq4/maxresdefault.jpg)](https://www.youtube.com/watch?v=tQ_eiwpsYWs)
+[![Thumbnail](https://www.noidentitytheft.com/wp-content/uploads/2016/09/email-bomb-1024x442.png)](https://www.youtube.com/watch?v=tQ_eiwpsYWs)
