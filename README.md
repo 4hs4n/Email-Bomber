@@ -15,7 +15,7 @@ Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/8
 EmBomber should work on all Linux distros running Python 2.7
 First, clone it by entering the following command in the terminal
 ``` bash
-https://github.com/4hs4n/Email-Bomber-.git
+git clone https://github.com/4hs4n/Email-Bomber-.git
 ```
 Now navigate to EmBomber directory
 ``` bash
